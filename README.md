@@ -21,14 +21,9 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinicios77&show_icons=true&theme=radium" alt="Vinicio's GitHub Stats" />
-</p>
 
 ---
 
 ### 📫 How to reach me
 
-* **Email:** viniciosssanttos7@gmail.com## Hi there 👋
+* **Email:** viniciosssanttos7@gmail.com
