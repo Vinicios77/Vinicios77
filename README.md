@@ -5,7 +5,7 @@
 * 🎓 I'm currently in my 4th semester studying **Information Systems**.
 * 🌱 Currently exploring different areas of technology and building solid software foundations.
 * 🌍 I'm constantly working to improve my English proficiency.
-* 🎮 When I'm not coding, you can find me with a controller in hand playing games like *Borderlands 2*, *Resident Evil 2*, and *Free Fire*.
+* 🎮 When I'm not coding, you can find me with a controller in hand playing games like *Resident Evil 2*, and *Fifa*.
 
 ---
 
